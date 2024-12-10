@@ -1,0 +1,19 @@
+.jump{
+    position:absolute;
+    bottom:10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.jump button{
+    padding:10px;
+    margin:10px;
+    background-color: black;
+}
+.jump button a{
+    text-decoration: none;
+    color:aliceblue;
+}
+.example{
+    color:blue;
+}
